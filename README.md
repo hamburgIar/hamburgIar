@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=your-github-hamburgIar&style=flat-square)
 
-## Hi there 👋
-
+## 🔧 Languages and Tools
 
 ## ⭐ Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=hamburgIar&theme=onedark&hide_border=true&card_width=467)](https://git.io/streak-stats)\
