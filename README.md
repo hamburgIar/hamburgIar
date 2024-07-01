@@ -24,6 +24,6 @@
       
 ## ⭐ Stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikitabiz&theme=tokyo-night&hide_border=true)](https://github.com/nikitabiz/github-readme-activity-graph)\
-[![GitHub Streak](https://streak-stats.demolab.com?user=nikitabiz&theme=tokyonight&hide_border=true&card_width=999)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nikitabiz&theme=tokyonight&hide_border=true&card_width=1040)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitabiz&show_icons=true&hide_border=true&theme=tokyonight)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitabiz&layout=compact&theme=tokyonight&hide_border=true&card_height=467)](https://github.com/nikitabiz/github-readme-stats) 
