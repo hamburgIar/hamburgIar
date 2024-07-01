@@ -15,6 +15,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" style="width: 50px; height: 50px" alt="Electron JS"/>&nbsp;\
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" style="width: 50px; height: 50px" alt="nginx"/>&nbsp;
 <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=FFFFFF" style="width: 50px; height: 50px;" alt="Express JS"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" style="width: 50px; height: 50px;" alt="sequelize orm"/>&nbsp;
       
 ## ⭐ Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=hamburgIar&theme=onedark&hide_border=true&card_width=467)](https://git.io/streak-stats)\
