@@ -4,23 +4,123 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 50px; height: 50px" alt="python"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="width: 50px; height: 50px" alt="C#"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 50px; height: 50px" alt="JS"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 50px; height: 50px" alt="HTML"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width: 50px; height: 50px" alt="CSS"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" style="width: 50px; height: 50px" alt="SASS"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" style="width: 50px; height: 50px" alt="npm"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width: 50px; height: 50px" alt="git"/>&nbsp;\
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" style="width: 50px; height: 50px" alt="Vue JS"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 50px; height: 50px" alt="React JS"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" style="width: 50px; height: 50px" alt=".net"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="width: 50px; height: 50px" alt="MySQL"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" style="width: 50px; height: 50px" alt="Electron JS"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" style="width: 50px; height: 50px" alt="nginx"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" style="width: 50px; height: 50px;" alt="sequelize orm"/>&nbsp;
-<img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=FFFFFF" style="width: 50px; height: 50px;" alt="Express JS"/>&nbsp;\
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" style="width: 50px; height: 50px;" alt="yarn"/>&nbsp;
+<table>
+  <tr>
+    <td align="center" width="96" height="96">
+        <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" />
+        </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      </a>
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+      <tr>
+            <td align="center" width="96" height="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://skillicons.dev/icons?i=sequelize" width="48" height="48" alt="sequelize" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://skillicons.dev/icons?i=yarn" width="48" height="48" alt="yarn" />
+      </a>
+      <br>
+    </td>
+            <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="SASS" />
+      </a>
+      <br>
+    </td>
+      </tr>
+</table>
+
+<table>
+      <tr>
+            <td align="center" width="96" height="96> 
+      <a href="#macropower-tech" >
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="electron" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="nginx" />
+      </a>
+      <br>
+    </td>
+            <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      </a>
+      <br>
+    </td>
+      </tr>
+</table>
+
+<table>
+      <tr>
+            <td align="center" width="96" height="86> 
+      <a href="#macropower-tech" >
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>
+    </td>
+      <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
+      </a>
+      <br>
+    </td>
+      </tr>
+</table>
+      
       
 ## ⭐ Stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikitabiz&theme=tokyo-night&hide_border=true)](https://github.com/nikitabiz/github-readme-activity-graph)\
