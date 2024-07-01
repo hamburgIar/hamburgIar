@@ -1,6 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=your-github-hamburgIar&style=flat-square)
 
 ## 🔧 Languages and Tools
+
+> Tools, languages, and other things that I like to work with.
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 50px; height: 50px" alt="python"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="width: 50px; height: 50px" alt="C#"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 50px; height: 50px" alt="JS"/>&nbsp;
