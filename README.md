@@ -140,7 +140,7 @@
 </table>
       
 ## ⭐ Stats
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikitabiz&theme=tokyo-night&hide_border=true">\
 <img width="70%" src="https://streak-stats.demolab.com?user=nikitabiz&theme=tokyonight&hide_border=true&card_width=600">
 <img width="70%" src="https://github-readme-stats.vercel.app/api?username=nikitabiz&show_icons=true&hide_border=true&theme=tokyonight&card_width=700">
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitabiz&layout=compact&theme=tokyonight&hide_border=true&card_width=600&card_height=600">
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikitabiz&theme=tokyo-night&hide_border=true">
