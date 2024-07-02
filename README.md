@@ -35,8 +35,8 @@
 </table>
 
 <table>
-      <tr>
-            <td align="center" width="96" height="96"> 
+  <tr>
+    <td align="center" width="96" height="96"> 
       <a href="#macropower-tech" >
         <img src="https://skillicons.dev/icons?i=sequelize" width="48" height="48" alt="sequelize" />
       </a>
@@ -54,7 +54,7 @@
       </a>
       <br>
     </td>
-            <td align="center" width="96"> 
+    <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       </a>
@@ -66,12 +66,12 @@
       </a>
       <br>
     </td>
-      </tr>
+  </tr>
 </table>
 
 <table>
-      <tr>
-            <td align="center" width="96" height="96> 
+  <tr>
+    <td align="center" width="96" height="96> 
       <a href="#macropower-tech" >
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
       </a>
@@ -95,30 +95,42 @@
       </a>
       <br>
     </td>
-            <td align="center" width="96"> 
+    <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       </a>
       <br>
     </td>
-      </tr>
+  </tr>
 </table>
 
 <table>
-      <tr>
-            <td align="center" width="96" height="86> 
+  <tr>
+    <td align="center" width="96" height="86> 
       <a href="#macropower-tech" >
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       </a>
       <br>
     </td>
-      <td align="center" width="96"> 
+    <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
       </a>
       <br>
     </td>
-      </tr>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://skillicons.dev/icons?i=nest" width="48" height="48" alt="nest" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="prisma" />
+      </a>
+      <br>
+    </td>
+  </tr>
 </table>
       
 ## ⭐ Stats
