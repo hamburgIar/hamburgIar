@@ -106,7 +106,7 @@
 
 <table>
   <tr>
-    <td align="center" width="96" height="86> 
+    <td align="center" width="96" height="96> 
       <a href="#macropower-tech" >
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       </a>
@@ -127,6 +127,12 @@
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="prisma" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="ts" />
       </a>
       <br>
     </td>
